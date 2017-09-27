@@ -1,0 +1,200 @@
+code,name,mentions,latitude,longitude
+MDV,Maldives,485,3.25,73
+FIN,Finland,551,64,26
+NER,Niger,1761,16,8
+URY,Uruguay,1262,-33,-56
+ZWE,Zimbabwe,2581,-20,30
+PHL,Philippines,541,13,122
+SDN,Sudan,2632,15,30
+RUS,Russian Federation,325,60,100
+CHN,China,4781,35,105
+ESP,Spain,1421,40,-4
+SUR,Suriname,507,4,-56
+ARG,Argentina,1209,-34,-64
+SLV,El Salvador,1101,13.8333,-88.9167
+MYS,Malaysia,783,2.5,112.5
+NPL,Nepal,895,28,84
+PRT,Portugal,1771,39.5,-8
+COL,Colombia,1159,4,-72
+BLR,Belarus,519,53,28
+MAR,Morocco,1429,32,-5
+LCA,Saint Lucia,692,13.8833,-61.1333
+EGY,Egypt,2356,27,30
+MEX,Mexico,1640,23,-102
+BEL,Belgium,557,50.8333,4
+BRN,Brunei,280,4.5,114.6667
+RWA,Rwanda,1915,-2,30
+CAN,Canada,1135,60,-95
+ALB,Albania,1443,41,20
+GRC,Greece,881,39,22
+KNA,Saint Kitts and Nevis,233,17.3333,-62.75
+GUY,Guyana,606,5,-59
+LBR,Liberia,2073,6.5,-9.5
+ATG,Antigua and Barbuda,323,17.05,-61.8
+MOZ,Mozambique,1891,-18.25,35
+JPN,Japan,2911,36,138
+YDYE,Democratic Yemen,52
+GAB,Gabon,704,-1,11.75
+BGD,Bangladesh,1284,24,90
+SWE,Sweden,584,62,15
+TUR,Turkey,1475,39,35
+TCD,Chad,2123,15,19
+SYR,Syria,3695,35,38
+CMR,Cameroon,498,6,12
+JAM,Jamaica,646,18.25,-77.5
+LUX,Luxembourg,443,49.75,6.1667
+ITA,Italy,918,42.8333,12.8333
+AGO,Angola,4192,-12.5,18.5
+CRI,Costa Rica,861,10,-84
+CSK,Czechoslovakia,246
+BFA,Burkina Faso,375,13,-2
+MNG,Mongolia,987,46,105
+BHR,Bahrain,608,26,50.55
+HTI,Haiti,2531,19,-72.4167
+OMN,Oman,387,21,57
+CIV,Côte dIvoire,0,8,-5
+TGO,Togo,673,8,1.1667
+CYP,Cyprus,4391,35,33
+MUS,Mauritius,775,-20.2833,57.55
+MMR,Myanmar,800,22,98
+ARE,United Arab Emirates,442,24,54
+GTM,Guatemala,1654,15.5,-90.25
+GRD,Grenada,1104,12.1167,-61.6667
+LBY,Libyan Arab Jamahiriya,234,25,17
+LKA,Sri Lanka,954,7,81
+TZA,Tanzania,900,-6,35
+SGP,Singapore,226,1.3667,103.8
+NOR,Norway,535,62,10
+LAO,Laos,557,18,105
+ISL,Iceland,596,65,-18
+AFG,Afghanistan,6142,33,65
+CHL,Chile,1863,-30,-71
+DMA,Dominica,1161,15.4167,-61.3333
+UKR,Ukraine,1224,49,32
+KEN,Kenya,1109,1,38
+BLZ,Belize,1095,17.25,-88.75
+FRA,France,2217,46,2
+MLI,Mali,1221,17,-4
+VCT,Saint Vincent and the Grenadines,366,13.25,-61.2
+VEN,Venezuela,1169,8,-66
+MLT,Malta,1076,35.8333,14.5833
+GHA,Ghana,677,8,-2
+GIN,Guinea,3835,11,-10
+GBR,United Kingdom,1469,54,-2
+ISR,Israel,17758,31.5,34.75
+YUG,Yugoslavia,1560
+BRB,Barbados,1185,13.1667,-59.5333
+IRQ,Iraq,9231,33,44
+HUN,Hungary,481,47,20
+AUT,Austria,993,47.3333,13.3333
+POL,Poland,1035,52,20
+GNB,Guinea-Bissau,1030,12,-15
+BWA,Botswana,482,-22,24
+MRT,Mauritania,671,20,-12
+SWZ,Swaziland,492,-26.5,31.5
+DNK,Denmark,511,56,10
+DOM,Dominican Republic,524,19,-70.6667
+MDG,Madagascar,479,-20,47
+NIC,Nicaragua,1820,13,-85
+BDI,Burundi,1703,-3.5,30
+CUB,Cuba,2830,21.5,-80
+IRN,Iran,4912,32,53
+PAK,Pakistan,2552,30,70
+SEN,Senegal,778,14,-14
+BGR,Bulgaria,1080,43,25
+YEM,Yemen,1218,15,48
+STP,Sao Tome and Principe,333,1,7
+NLD,Netherlands,662,52.5,5.75
+VUT,Vanuatu,572,-16,167
+BOL,Bolivia,1373,-17,-65
+PNG,Papua New Guinea,840,-6,147
+SLB,Solomon Islands,958,-8,159
+DEU,Germany,2120,51,9
+ROU,Romania,1050,46,25
+KHM,Cambodia,2995,13,105
+TUN,Tunisia,948,34,9
+BRA,Brazil,1559,-10,-55
+IND,India,4475,20,77
+IDN,Indonesia,1303,-5,120
+AUS,Australia,1573,-27,133
+COD,Congo, The Democratic Republic of the,0,0,25
+HND,Honduras,1006,15,-86.5
+GNQ,Equatorial Guinea,544,2,10
+FJI,Fiji Islands,11,-18,175
+IRL,Ireland,1314,53,-8
+DZA,Algeria,975,28,3
+USA,United States,11918,38,-97
+LSO,Lesotho,525,-29.5,28.5
+GMB,Gambia,454,13.4667,-16.5667
+PER,Peru,1144,-10,-76
+DDR,East Germany,11
+THA,Thailand,1068,15,100
+JOR,Jordan,1225,31,36
+COG,Congo,2143,-1,15
+NGA,Nigeria,1026,10,8
+ECU,Ecuador,1184,-2,-77.5
+SAU,Saudi Arabia,623,25,45
+QAT,Qatar,483,25.5,51.25
+SYC,Seychelles,433,-4.5833,55.6667
+ETH,Ethiopia,1587,8,38
+TTO,Trinidad and Tobago,676,11,-61
+PRY,Paraguay,920,-23,-58
+VNM,Vietnam,1202,16,106
+NZL,New Zealand,1039,-41,174
+PAN,Panama,2279,9,-80
+MWI,Malawi,761,-13.5,34
+DJI,Djibouti,541,11.5,43
+BEN,Benin,630,9.5,2.25
+SOM,Somalia,2751,10,49
+ZMB,Zambia,982,-15,30
+CPV,Cape Verde,514,16,-24
+BHS,Bahamas,1083,24.25,-76
+KWT,Kuwait,2146,29.3375,47.6581
+UGA,Uganda,1107,1,32
+COM,Comoros,665,-12.1667,44.25
+ZAF,South Africa,13471,-29,24
+LBN,Lebanon,5462,33.8333,35.8333
+SLE,Sierra Leone,1031,8.5,-11.5
+KOR,South Korea,829,37,127.5
+BIH,Bosnia and Herzegovina,1122,44,18
+TON,Tonga,404,-20,-175
+EU,European Union,2686
+HRV,Croatia,956,45.1667,15.5
+NRU,Nauru,408,-0.5333,166.9167
+TUV,Tuvalu,524,-8,178
+NAM,Namibia,9395,-22,17
+SMR,San Marino,322,43.7667,12.4167
+LIE,Liechtenstein,264,47.1667,9.5333
+MKD,Macedonia,558,41.8333,22
+TLS,East Timor,1066,-8.55,125.5167
+FSM,Micronesia, Federated States of,0,6.9167,158.25
+KIR,Kiribati,262,1.4167,173
+BTN,Bhutan,389,27.5,90.5
+SVK,Slovakia,356,48.6667,19.5
+WSM,Samoa,398,-13.5833,-172.3333
+MNE,Montenegro,368,42,19
+GEO,Georgia,1026,42,43.5
+LTU,Lithuania,480,56,24
+AND,Andorra,363,42.5,1.6
+TJK,Tajikistan,687,39,71
+MHL,Marshall Islands,469,9,168
+EST,Estonia,646,59,26
+LVA,Latvia,831,57,25
+CAF,Central African Republic,663,7,21
+TKM,Turkmenistan,486,40,60
+MDA,Moldova,589,47,29
+SSD,South Sudan,380
+KGZ,Kyrgyzstan,363,41,75
+AZE,Azerbaijan,1098,40.5,47.5
+PSE,Palestine,5420,32,35.25
+PRK,North Korea,363,40,127
+CZE,Czech Republic,295,49.75,15.5
+ERI,Eritrea,837,15,39
+ARM,Armenia,880,40,45
+UZB,Uzbekistan,323,41,64
+PLW,Palau,366,7.5,134.5
+VAT,Holy See (Vatican City State),0,41.9,12.45
+MCO,Monaco,307,43.7333,7.4
+CHE,Switzerland,349,47,8
+KAZ,Kazakstan,44,48,68
+SVN,Slovenia,260,46,15
